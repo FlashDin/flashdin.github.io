@@ -1,0 +1,21 @@
+h1.title {
+    color: red;
+}
+
+p {
+    margin: 0px;
+}
+
+p.title {
+    margin: 10px 10px 10px 10px; /*top right bottom left*/
+    color: green;
+    background: grey;
+}
+
+div.atas {
+    background: green;
+}
+
+div.bawah {
+    background: yellow;
+}
